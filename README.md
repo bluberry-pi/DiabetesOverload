@@ -1,4 +1,4 @@
-# 2-Player Platformer Showdown
+# 2-Player SugarRush Showdown
 
 A 2D platformer made in Unity where two players fight enemies and each other using projectiles. Each player has 3 lives, shown as heart icons. The goal is to defeat all bosses and reach the sugar treasure!
 
