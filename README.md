@@ -1,6 +1,6 @@
-# 2-Player SugarRush Showdown
+# 2-Player SugarPatient Showdown
 
-A 2D platformer made in Unity where two players fight enemies and each other using projectiles. Each player has 3 lives, shown as heart icons. The goal is to defeat all bosses and reach the sugar treasure!
+A 2D PvP arcade game made in Unity where two players fight each other and try to make each other diabetic using projectiles. Each player has 3 lives, shown as heart icons. The goal is to defeat the other player and not get diabetes!
 
 ## Features
 
@@ -8,22 +8,20 @@ A 2D platformer made in Unity where two players fight enemies and each other usi
 - Projectile shooting with directional awareness
 - Reload system with limited ammo
 - 3-life system shown with heart UI
-- Boss fights and a final treasure
+- PvP fight
 - Simple respawn mechanic on life loss
 
 ## Controls
 
 ### Player 1
 - Move: A / D
-- Jump: W
+- Jump: X
 - Shoot: C
-- Reload: J
 
 ### Player 2
-- Move: Left Arrow / Right Arrow
-- Jump: Up Arrow
-- Shoot: L
-- Reload: K
+- Move: J / L
+- Jump: M
+- Shoot: N
 
 ## Project Setup
 
